@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"增长实验专家：假设→实验设计→显著性判定→防 p-hacking→复盘（与 lhg-user-growth 互补）","name":"lhg-growth-lab","source":"./"}]}
